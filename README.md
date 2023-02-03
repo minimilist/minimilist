@@ -13,6 +13,8 @@
 
 - 📫 How to reach me **ankit201921@gmail.com**
 
+- 📂 Know more about me <a href="https://drive.google.com/file/d/13VGPCs4VmcB89QUCAZmVbXyLoo6AnwJz/view?usp=sharing"> My CV </a>
+
 - ⚡ Fun fact **I love Anime💙**
 <br>
 <h3 align="left">Connect with me:</h3>
