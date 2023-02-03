@@ -4,6 +4,8 @@
 
 <img align="right" width="300" src="https://miro.medium.com/max/1400/1*d7QeSREErtMuJQ0bcptMXQ.gif">
 
+- 📘 I'm currently an **Electrical Engineering UnderGraduate Student** at **IIT Delhi, India**
+
 - 🌱 I’m currently learning **Machine Learning and Neural Networks**
 
 - 💬 Ask me about **Competitive Programming, Computational Mathematics**
